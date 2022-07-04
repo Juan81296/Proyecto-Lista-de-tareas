@@ -36,9 +36,15 @@
 }
 /*Icono*/
 .tarea-icono{
-  height: 25px;
-  width: 25px;
+  height: 30px;
+  width: 30px;
   margin: 5px;
+  font-size: 20px;
+  font-weight: bolder;
+  border: 1px solid black;
+  border-radius:25px;
+  padding-left: 8px;
+  padding-top: 3px;
 }
 /*Tarea completada */
 .tarea-contenedor.completada{
